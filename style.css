@@ -1,6 +1,7 @@
 body{
     width: 1500px;
     margin-top: -15px;
+    margin-left: 80px;
 
 }
 .entete{
@@ -23,15 +24,18 @@ body{
 }
 .propre img{
    position: absolute;
-   left: 550px;
+   left: 620px;
    top: 320px;
+   width: 270px;
 }
 .propre h1{
    position: absolute;
-   left: 600px;
-   top: 420px;
+   left: 550px;
+   top: 400px;
    color: white;
-   font-size: 1.8em;
+   font-size: 2.5em;
+   font-weight: 400;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .separer{
 margin-top: 650px;
